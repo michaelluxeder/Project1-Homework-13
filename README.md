@@ -2,11 +2,11 @@
 
 The files in this repository were used to configure the network depicted below.
 
-[Azure Network]https://github.com/michaelluxeder/Project1-Homework-13/blob/dfd73b4fe9cc9747f591dab0e50432c556576ac5/Diagrams/Azure%20Network.drawio.png
+[Azure Network](https://github.com/michaelluxeder/Project1-Homework-13/blob/dfd73b4fe9cc9747f591dab0e50432c556576ac5/Diagrams/Azure%20Network.drawio.png)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Azure Network file may be used to install only certain pieces of it, such as Filebeat.
 
-  - _TODO: Enter the playbook file._
+[filebeat-playbook.yml](https://github.com/michaelluxeder/Project1-Homework-13/blob/db5c9497802412d87090bfe37e168feee0854c43/Ansible/filebeat-playbook.yml)
 
 This document contains the following details:
 - Description of the Topology

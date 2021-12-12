@@ -116,3 +116,4 @@ In order to use the playbook, you will need to have an Ansible control node alre
 + Which URL do you navigate to in order to check that the ELK server is running?
   * http://52.173.207.206:5601 
 _As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
+(https://github.com/michaelluxeder/Project1-Homework-13/blob/373792fedd6087d28b86263d99f2c1e382aee7f0/Ansible/Bonus%20playbook.txt)

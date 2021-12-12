@@ -77,12 +77,10 @@ Install pip3
 Install Docker python module
 Download and launch docker
 
-The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
-
-**Note**: The following image link needs to be updated. Replace `docker_ps_output.png` with the name of your screenshot image file.  
+The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance. 
 
 
-![TODO: Update the path with the name of your screenshot of docker ps output](Images/docker_ps_output.png)
+![docker ps](https://github.com/michaelluxeder/Project1-Homework-13/blob/fb0bf611773223363badfd75b754022adee91af0/Diagrams/Screenshot%202021-12-11%20193702.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
@@ -115,6 +113,6 @@ In order to use the playbook, you will need to have an Ansible control node alre
   *
 + How do I specify which machine to install the ELK server on versus which to install Filebeat on? 
   * specify two separate groups in the etc/ansible/hosts file. webservers where Filebeat will be installed and elkservers which will have the IP of the ELK VM
-- _Which URL do you navigate to in order to check that the ELK server is running?
-
++ Which URL do you navigate to in order to check that the ELK server is running?
+  * http://52.173.207.206:5601 
 _As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
